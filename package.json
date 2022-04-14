@@ -1,0 +1,16 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-fetch --no-warnings index123.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-escapes": "^5.0.0",
+    "prompts": "^2.4.2"
+  }
+}
